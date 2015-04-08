@@ -1,0 +1,27 @@
+---
+layout: project
+title:  "YMCA Swim Lesson Planner"
+date:   2015-03-01 16:54:46
+categories:
+- project
+tags:
+- Web Application
+img: portfolio_02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+- single05.png
+- single04.jpg
+client: YMCA
+---
+####YMCA Lesson Planner
+YMCA Lesson Planner is a Rails web application used by swim instructors to plan each session with skills and activities that they need to teach their class. YMCA Planner keeps track of historical plans and provides PDF exporting capabilities for optimal printing. It also includes an admin panel for managing users and activities.
+
+####Features and components:
+* Responsive user interface
+* Ajax forms
+* Cloud hosting
+* Authentication
+* Generating PDF plans for optimal printing
+* Administration of Users and Activities

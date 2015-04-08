@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: BrainMuscle
+description: "My Personal Portfolio"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -43,8 +43,8 @@ address:
     - Some Ave, 987,
     - 23890, New York,
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+email: sina.eizad@brainmuscle.co
+tel: 613.793.7462
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -69,24 +69,6 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
 clients:
@@ -94,7 +76,8 @@ clients:
     img: ymca.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Whether you are a small business or an individual, if you need help with development of your application I'd be happy to hear about it. Please reach me via email or phone.
+"
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:

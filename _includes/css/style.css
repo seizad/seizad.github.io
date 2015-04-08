@@ -190,9 +190,13 @@ a:focus {
 	font-weight: normal !important;
 }
 
-.mtb {
-	margin-top: 80px;
-	margin-bottom: 80px;
+.band {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.band h3 {
+  margin-bottom: 40px;
 }
 
 .mb {
@@ -251,7 +255,7 @@ a:focus {
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	padding-top: 60px;
+	padding-top: 30px;
 	margin-bottom: 60px;
 	display: block;
 	text-align: center
@@ -259,6 +263,10 @@ a:focus {
 
 #portfoliowrap h3 {
 	margin-bottom: 25px;
+}
+
+#servicewarp h3 {
+  margin-bottom: 25px;
 }
 
 .portfolio {
