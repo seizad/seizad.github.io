@@ -3,7 +3,8 @@
 # Site settings
 title: BrainMuscle
 description: "My Personal Portfolio"
-analytics: UA-61743105-1#Google analytics code in the format XX-nnnnnnnn-n
+#Google analytics code in the format XX-nnnnnnnn-n
+analytics: UA-61743105-1
 baseurl: "" #important: start with /
 url: "http://brainmuscle.co"
 
