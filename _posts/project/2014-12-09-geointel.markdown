@@ -12,9 +12,9 @@ carousel:
 client: Nterop Corp.
 ---
 ####Police Intelligence Management
-I worked as the lead engineer on design and development of GeoIntel. GeoIntel is a content management system built to make retention and discovery of crime intelligence easy. This product received the Motorola award for public safety is current being used at several police departments by hundreds of Crime Analysts and Sergeants.
+I worked as the lead engineer on design and development of GeoIntel. GeoIntel is a content management system built to make retention and discovery of crime intelligence easy. This product received the Motorola Award for Innovation in Public Safety. GeoIntel is currently used at several police departments by hundreds of Crime Analysts and Sergeants.
 
-####Features and components: 
+####Features and Components: 
 * Search
 * Spatial searching and filtering
 * Storage of tens of thousands of records
